@@ -164,4 +164,5 @@ toknowall.com
 api.ipify.org
 # https://arstechnica.com/information-technology/2019/05/more-than-100-commerce-sites-infected-with-code-that-steals-payment-card-data/
 magento-analytics.com
-
+# https://arstechnica.com/information-technology/2019/06/new-ransomware-infections-are-the-worst-drive-by-attacks-in-recent-memory/
+fastimage.site
