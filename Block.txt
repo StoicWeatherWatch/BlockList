@@ -168,3 +168,6 @@ magento-analytics.com
 fastimage.site
 # malware control site https://arstechnica.com/information-technology/2020/06/chinese-bank-requires-foreign-firm-to-install-app-with-covert-backdoor/
 ningzhidata.com
+#https://redcanary.com/blog/clipping-silver-sparrows-wings/
+mobiletraits.com
+specialattributes.com
