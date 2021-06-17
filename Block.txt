@@ -171,3 +171,5 @@ ningzhidata.com
 #https://redcanary.com/blog/clipping-silver-sparrows-wings/
 mobiletraits.com
 specialattributes.com
+# Strange malware
+1flchier.com
